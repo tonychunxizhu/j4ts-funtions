@@ -1,0 +1,26 @@
+{
+  "candies": [
+    {
+      "name": "j4ts",
+      "version": "2.1.0-SNAPSHOT",
+      "lastUpdateTimestamp": 1648237416000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "3.1.0",
+      "jsOutputDirPath": "D:\\devmate\\j4ts-funtions\\.jsweet\\candies\\js",
+      "jsDirPath": "META-INF/resources/webjars/j4ts/2.1.0-SNAPSHOT",
+      "jsFilesPaths": [
+        "META-INF/resources/webjars/j4ts/2.1.0-SNAPSHOT/bundle.js"
+      ]
+    },
+    {
+      "name": "jsweet-core",
+      "version": "1.2.0-20161222",
+      "lastUpdateTimestamp": 1482417264000,
+      "modelVersion": "unknown",
+      "transpilerVersion": "1.2.0",
+      "jsOutputDirPath": "D:\\devmate\\j4ts-funtions\\.jsweet\\candies\\js",
+      "jsDirPath": "META-INF/resources/webjars/jsweet-core/1.2.0-20161222",
+      "jsFilesPaths": []
+    }
+  ]
+}
