@@ -1,2 +1,2 @@
 ## example
-There is an example candy for classes in java.util.function
+There is an example candy test for classes in java.util.function
